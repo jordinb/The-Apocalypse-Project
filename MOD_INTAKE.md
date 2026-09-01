@@ -1,0 +1,24 @@
+# External Map Intake
+
+This register tracks maps proposed for evaluation. A source credit is not a redistribution licence: no candidate is copied into the project until its author has explicitly approved redistribution in this FiveM/GitHub project.
+
+| Candidate | Author | Format | Status |
+| --- | --- | --- | --- |
+| Los Santos Apocalypse | ConorM | Map Editor XML | Already present as END.ymap; do not import a second copy |
+| Abandoned Road / Post-Apocalypse | Axel Fala | YMAP / Menyoo | Permission approved; archive pending |
+| Post-Apocalypse Vinewood | Axel Fala | YMAP / Menyoo | Permission approved; archive pending |
+| After Us Zombie Hospital | Azpect-YT | Map Editor | Permission approved; archive pending |
+| The Richman Hotel Post-Apocalypse | Axel Fala | YMAP / Menyoo | Already integrated; do not import again |
+| Apocalypse | Stuart688 | Map Editor XML | Permission approved; archive pending |
+| Liberty City Post-Apocalypse | Axel Fala | Menyoo | Rejected: requires Liberty City |
+| Los Santos Zombie Apocalypse | Crazy city | YMAP | Permission approved; archive pending; full Los Santos conflict/performance audit required |
+| Time Square Post-Apocalypse | Axel Fala | Menyoo | Rejected: requires Liberty City |
+| Several Safezones | hadinajafi77 | Map Editor XML | Permission approved; archive pending |
+| Apocalypse | Tobaklo | Menyoo | Permission approved; archive pending |
+| Metro Apocalypse | ManuGammer | Map Editor XML | Permission approved; archive pending |
+| Military Checkpoint Vinewood Radio Tower | Yougi | Map Editor | Permission approved; archive pending |
+| Apocalypse Safebase | JohnnyMillion | Map Editor XML | Permission approved; archive pending |
+| Military Base [Zombie base] | RDK_Ulman | Map Editor / Menyoo | Permission approved; archive pending |
+| The Walking Dead Inspired: Zombie Survival Map | roosybigmods / The Ultimate ShotHD listing | Menyoo | Permission approved; archive pending |
+
+Every approved archive is processed as follows: extract outside the streamed resources; convert only static supported entities; remove exact and near conflicts against project YMAPs; recalculate flags/extents in CodeWalker; reload/validate; and add the final author credit plus source link to the README and forum post.

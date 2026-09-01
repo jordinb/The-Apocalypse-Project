@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <CodeWalkerProject>
   <Name>The Apocalypse Project</Name>
   <Version value="1" />
@@ -55,40 +56,35 @@
     <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\core\road6.ymap</Item>
     <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\core\street.ymap</Item>
     <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\core\streetb.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\apa_ch2_11b_strm_0.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\apa_ss1_rd1_strm_2.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\cs5_roads_long_0.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\fwy_01_strm_0.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\fwy_02_strm_0.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\fwy_04_strm_0.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_ap1_01_a_long_1.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_ap1_01_a_strm_18.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_ap1_01_a_strm_9.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_ap1_01_a.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_cs2_roads_long_0.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_cs2_roads_strm_1.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_cs3_01_strm_1.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_cs3_01.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_cs3_08_long_3.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_cs3_08_strm_1.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_cs3_08.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_dt1_06_strm_0.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_dt1_rd1_strm_1.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_fwy_01_long_0.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_fwy_01_strm_0.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_fwy_02_strm_0.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_fwy_04_strm_0.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_hw1_10_strm_0.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_kt1_00_strm_0.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_kt1_04_strm_0.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_kt1_13_strm_1.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_kt1_rd_long_1.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_kt1_rd_strm_2.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_kt1_rd_strm_3.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_sm_20_strm_0.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_sm_rd_long_1.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\sp1_01_strm_0.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\sp1_rd_strm_1.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_apa_ch2_11b_strm_0.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_apa_ss1_rd1_strm_2.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_cs5_roads_long_0.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_fwy_02_strm_0.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_fwy_04_strm_0.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_ap1_01_a_long_1.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_ap1_01_a_strm_18.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_ap1_01_a_strm_9.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_ap1_01_a.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_cs2_roads_long_0.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_cs2_roads_strm_1.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_cs3_01_strm_1.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_cs3_01.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_cs3_08_long_3.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_cs3_08_strm_1.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_cs3_08.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_dt1_06_strm_0.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_dt1_rd1_strm_1.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_tap_fwy_02_strm_0.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_tap_fwy_04_strm_0.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_hw1_10_strm_0.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_kt1_00_strm_0.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_kt1_04_strm_0.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_kt1_13_strm_1.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_kt1_rd_strm_2.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_sm_20_strm_0.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_sm_rd_long_1.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_sp1_01_strm_0.ymap</Item>
+    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_sp1_rd_strm_1.ymap</Item>
     <Item>..\..\apocalypse-infrastructure\stream\infrastructure\roads\mirrorroads.ymap</Item>
     <Item>..\..\apocalypse-los-santos\stream\los-santos\casino\casinolot.ymap</Item>
     <Item>..\..\apocalypse-los-santos\stream\los-santos\destroyed-buildings\dt1_occl_05.ymap</Item>
