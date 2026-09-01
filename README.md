@@ -37,12 +37,9 @@ Join our Discord server and help "rebuild" Los Santos. Click the image to join :
 
 The Apocalypse Project requires IPLs in order to be 100% functional.
 
-Simply drag all the folders into the "Scripts" folder and add the following to your server.cfg:
+Place the `[the_apocalypse_project]` folder in your server `resources` directory and add the following to `server.cfg`:
 
-ensure assets_map
-ensure assets_map2
-ensure assets_map3
-ensure postapo_interior
+ensure [the_apocalypse_project]
 
 ---
 

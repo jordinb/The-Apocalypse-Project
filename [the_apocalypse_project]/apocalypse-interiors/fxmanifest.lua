@@ -1,0 +1,17 @@
+fx_version 'cerulean'
+game 'gta5'
+
+dependency 'apocalypse-core'
+this_is_a_map 'yes'
+
+data_file 'DLC_ITYP_REQUEST' 'stream/interiors/v_int_7.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/interiors/v_int_10.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/interiors/v_int_22.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/interiors/v_int_28.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/interiors/v_int_38.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/interiors/v_int_46.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/interiors/v_int_49.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/interiors/v_int_51.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/interiors/v_int_66.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/interiors/cs2_roadsb_interior_cs2_roadsb_tunnel_01.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/interiors/cs2_roadsb_interior_cs2_roadsb_tunnel_03.ytyp'
