@@ -62,6 +62,26 @@ Modern Forks Merged Into This Project:
 - SparksScripts – Total Apocalypse
 - SantosMods – Total Apocalypse Revisited
 
+Community Map Credits
+
+Implemented in this release:
+
+- Crazy city — Los Santos Zombie Apocalypse
+- roosybigmods / Ultimate ShotHD — The Walking Dead Inspired: Zombie Survival Map
+- ManuGammer — Metro Apocalypse: The Last of Us and The Division
+- RDK_Ulman — VEST Military Base in the Desert
+
+Approved sources currently being audited or converted:
+
+- Axel Fala — Abandoned Road / Post-Apocalypse and Post-Apocalypse Vinewood
+- Azpect-YT — After Us Zombie Hospital
+- Stuart688 — Apocalypse
+- hadinajafi77 — Several Safezones
+- Tobaklo — Apocalypse
+- Yougi — Military Checkpoint Vinewood Radio Tower
+- JohnnyMillion — Apocalypse Safebase
+
+Only static map placements are used from approved community sources. Runtime scripts, ASI/DLL files, peds, vehicles, and any conflicting nearby placements are excluded. Full source and implementation tracking is maintained in [MOD_INTAKE.md](MOD_INTAKE.md).
 (If you see your work in our project please contact me on Discord to add you to the credits — XanderP#6037)
 
 Thanks again to Savolent#1095 for this major update.
