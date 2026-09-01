@@ -74,3 +74,15 @@ When a candidate is integrated, copy its best 3-5 source screenshots into its de
 - **Showcase source:** no images were supplied with this package.
 - **Credit:** RDK_Ulman — VEST Military Base in the Desert.
 
+
+## Conversion batch — implemented
+
+- **Stuart Apocalypse** by Stuart688: downtown Los Santos; 2,825 retained static props across two YMAPs after 949 existing-map conflicts were pruned.
+- **Abandoned Road / Post-Apocalypse** by Axel Fala: west Los Santos; 1,054 retained props after 265 conflicts were pruned.
+- **Post-Apocalypse Vinewood** by Axel Fala: Vinewood / downtown; 963 retained props after 402 conflicts were pruned.
+- **Apocalypse Safebase** by JohnnyMillion: Port of Los Santos; 379 static props, zero conflicts.
+- **Apocalypse** by Tobaklo: south/central Los Santos; 685 retained props after 117 conflicts were pruned. Source XML was parse-sanitized only in the archive; the original remains unchanged.
+- **Several Safezones** by hadinajafi77: split into six geographic YMAPs; 823 retained props after conflict pruning.
+- **After Us Zombie Hospital — Abandoned layout** by Azpect-YT: central Los Santos; 1,162 retained props after 563 conflicts were pruned. The Normal layout is intentionally excluded.
+
+All imports contain static props only. Vehicles, peds, scripts, IPL actions, ASI/DLL content, and conflicting nearby placements are excluded. Source images, where supplied, are preserved under `archive/showcase` and ignored by Git.
