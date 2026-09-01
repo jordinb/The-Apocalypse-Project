@@ -22,3 +22,11 @@ This register tracks maps proposed for evaluation. A source credit is not a redi
 | The Walking Dead Inspired: Zombie Survival Map | roosybigmods / The Ultimate ShotHD listing | Menyoo | Permission approved; archive pending |
 
 Every approved archive is processed as follows: extract outside the streamed resources; convert only static supported entities; remove exact and near conflicts against project YMAPs; recalculate flags/extents in CodeWalker; reload/validate; and add the final author credit plus source link to the README and forum post.
+
+## Implemented
+- **The Walking Dead Inspired Zombie Survival Map** — roosybigmods / Ultimate ShotHD. Converted only the 19 static placements to pocalypse-blaine/stream/community/walking-dead-survival; no runtime script content included.
+
+- **Metro Apocalypse: The Last of Us and The Division** — ManuGammer. Converted 130 conflict-free static placements to pocalypse-los-santos/stream/community/metro-apocalypse; no runtime data included.
+
+- **VEST Military Base in the Desert** — RDK_Ulman. Neutral static layout only: 1,033 props under pocalypse-blaine/stream/community/vest-military-base; four airport overlaps pruned; runtime content excluded.
+

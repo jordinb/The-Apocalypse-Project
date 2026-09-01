@@ -50,3 +50,27 @@ Packages with supplied screenshots:
 - Apocalypse Safebase: 18 screenshots in 7b6355-ApocalypseSafebase.2.0\...\Photos
 
 When a candidate is integrated, copy its best 3-5 source screenshots into its dedicated archive showcase folder and add the final installed location, entity count, and conflict-removal count here.
+
+## Walking Dead Survival Base (implemented)
+- **Location:** Sandy Shores / Grand Senora Desert — centre 1378, 3610, 34.
+- **Content:** 19 static props only; no vehicles, peds, scripts, IPL calls, ASI, or DLL content.
+- **Compatibility:** 0 entity placements within 3 m of the existing project.
+- **Showcase source:** rchive/showcase/walking-dead-survival (up to five source images, ignored by Git).
+- **Credit:** roosybigmods / Ultimate ShotHD — The Walking Dead Inspired Zombie Survival Map.
+
+
+## Metro Apocalypse (implemented)
+- **Location:** Los Santos Metro / Strawberry-adjacent underground area — centre -826, -127, 24.
+- **Content:** 130 static props; vehicles and all Map Editor runtime data excluded.
+- **Compatibility:** 0 entity placements within 3 m of the existing project.
+- **Showcase source:** no images were supplied with this package.
+- **Credit:** ManuGammer — Metro Apocalypse: The Last of Us and The Division.
+
+
+## VEST Military Base (implemented)
+- **Location:** Grand Senora Desert — centre 1720, 3273, 44.
+- **Content:** neutral static layout only; 1,033 props after removing 4 overlaps with irport.ymap.
+- **Compatibility:** faction peds, vehicles, runtime content, ASI, and DLL content excluded; aggressive/friendly variants intentionally not stacked.
+- **Showcase source:** no images were supplied with this package.
+- **Credit:** RDK_Ulman — VEST Military Base in the Desert.
+

@@ -20,7 +20,6 @@
     <Item>..\..\apocalypse-blaine\stream\blaine-county\mine\tap_cs6_08_strm_0.ymap</Item>
     <Item>..\..\apocalypse-blaine\stream\blaine-county\mine\tap_lr_cs6_08_critical_0.ymap</Item>
     <Item>..\..\apocalypse-blaine\stream\blaine-county\mine\tap_lr_cs6_08_long_0.ymap</Item>
-    <Item>..\..\apocalypse-blaine\stream\blaine-county\mine\lr_tap_cs6_08_strm_0.ymap</Item>
     <Item>..\..\apocalypse-blaine\stream\blaine-county\paleto-bay\tap_hei_cs2_roadsa_long_0.ymap</Item>
     <Item>..\..\apocalypse-blaine\stream\blaine-county\paleto-bay\tap_hei_cs2_roadsa_strm_0.ymap</Item>
     <Item>..\..\apocalypse-blaine\stream\blaine-county\paleto-bay\tap_hei_cs2_roadsa.ymap</Item>
@@ -36,7 +35,6 @@
     <Item>..\..\apocalypse-blaine\stream\locations\apocalypse-motel\stream\tap_hei_hw1_13.ymap</Item>
     <Item>..\..\apocalypse-blaine\stream\locations\apocalypse-motel\stream\tap_hei_hw1_rd_critical_1.ymap</Item>
     <Item>..\..\apocalypse-blaine\stream\locations\apocalypse-motel\stream\tap_hei_hw1_rd_strm_6.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\bridges\fall-of-the-bridge\tap_hei_tap_po1_occl_01.ymap</Item>
     <Item>..\..\apocalypse-infrastructure\stream\infrastructure\bridges\fall-of-the-bridge\tap_po1_03_critical_0.ymap</Item>
     <Item>..\..\apocalypse-infrastructure\stream\infrastructure\bridges\fall-of-the-bridge\tap_po1_03_strm_0.ymap</Item>
     <Item>..\..\apocalypse-infrastructure\stream\infrastructure\bridges\fall-of-the-bridge\tap_po1_occl_01.ymap</Item>
@@ -74,8 +72,6 @@
     <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_cs3_08.ymap</Item>
     <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_dt1_06_strm_0.ymap</Item>
     <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_dt1_rd1_strm_1.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_tap_fwy_02_strm_0.ymap</Item>
-    <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\hei_tap_fwy_04_strm_0.ymap</Item>
     <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_hw1_10_strm_0.ymap</Item>
     <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_kt1_00_strm_0.ymap</Item>
     <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_hei_kt1_04_strm_0.ymap</Item>
@@ -87,8 +83,7 @@
     <Item>..\..\apocalypse-infrastructure\stream\infrastructure\highways\extended\tap_sp1_rd_strm_1.ymap</Item>
     <Item>..\..\apocalypse-infrastructure\stream\infrastructure\roads\mirrorroads.ymap</Item>
     <Item>..\..\apocalypse-los-santos\stream\los-santos\casino\casinolot.ymap</Item>
-    <Item>..\..\apocalypse-los-santos\stream\los-santos\destroyed-buildings\tap_dt1_occl_05.ymap</Item>
-    <Item>..\..\apocalypse-los-santos\stream\los-santos\destroyed-buildings\hei_tap_dt1_occl_05.ymap</Item>
+    <Item>..\..\apocalypse-los-santos\stream\los-santos\destroyed-buildings\</Item>
     <Item>..\..\apocalypse-los-santos\stream\los-santos\industrial\tap_cs5_3_strm_2.ymap</Item>
     <Item>..\..\apocalypse-los-santos\stream\los-santos\industrial\tap_cs5_3.ymap</Item>
     <Item>..\..\apocalypse-los-santos\stream\los-santos\industrial\Savfactory.ymap</Item>
@@ -121,7 +116,6 @@
     <Item>..\..\apocalypse-statewide\stream\regions\south-san-andreas\tap_dt1_rd1_critical_1.ymap</Item>
     <Item>..\..\apocalypse-statewide\stream\regions\south-san-andreas\freeway.ymap</Item>
     <Item>..\..\apocalypse-statewide\stream\regions\south-san-andreas\grove.ymap</Item>
-    <Item>..\..\apocalypse-statewide\stream\regions\south-san-andreas\hei_tap_dt1_15_strm_0.ymap</Item>
     <Item>..\..\apocalypse-statewide\stream\regions\south-san-andreas\HumaneLabs.ymap</Item>
     <Item>..\..\apocalypse-statewide\stream\regions\south-san-andreas\tap_id2_18_critical_0.ymap</Item>
     <Item>..\..\apocalypse-statewide\stream\regions\south-san-andreas\tap_lr_sc1_27_strm_0.ymap</Item>
@@ -161,5 +155,8 @@
     <Item>..\..\apocalypse-statewide\stream\regions\wilderness\rebel.ymap</Item>
     <Item>..\..\apocalypse-statewide\stream\regions\wilderness\towerADDM.ymap</Item>
     <Item>..\..\apocalypse-statewide\stream\regions\wilderness\WalkingDeadRoad.ymap</Item>
+    <Item>..\..\apocalypse-blaine\stream\community\walking-dead-survival\walking-dead-survival.ymap</Item>
+    <Item>..\..\apocalypse-blaine\stream\community\vest-military-base\vest-military-base.ymap</Item>
+    <Item>..\..\apocalypse-los-santos\stream\community\metro-apocalypse\metro-apocalypse.ymap</Item>
   </YmapFilenames>
 </CodeWalkerProject>
