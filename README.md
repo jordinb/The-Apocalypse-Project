@@ -77,7 +77,7 @@ Approved sources currently being audited or converted:
 - Azpect-YT — After Us Zombie Hospital
 - Stuart688 — Apocalypse
 - hadinajafi77 — Several Safezones
-- Tobaklo — Apocalypse
+- Tobaklo — Apocalypse (audited; excluded from the release due to full CityCentral overlap)
 - Yougi — Military Checkpoint Vinewood Radio Tower
 - JohnnyMillion — Apocalypse Safebase
 

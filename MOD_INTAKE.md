@@ -14,7 +14,7 @@ This register tracks maps proposed for evaluation. A source credit is not a redi
 | Los Santos Zombie Apocalypse | Crazy city | YMAP | Permission approved; archive pending; full Los Santos conflict/performance audit required |
 | Time Square Post-Apocalypse | Axel Fala | Menyoo | Rejected: requires Liberty City |
 | Several Safezones | hadinajafi77 | Map Editor XML | Permission approved; archive pending |
-| Apocalypse | Tobaklo | Menyoo | Permission approved; archive pending |
+| Apocalypse | Tobaklo | Menyoo | Audited; excluded from release because it fully overlaps CityCentral and causes unsafe local prop density |
 | Metro Apocalypse | ManuGammer | Map Editor XML | Permission approved; archive pending |
 | Military Checkpoint Vinewood Radio Tower | Yougi | Map Editor | Permission approved; archive pending |
 | Apocalypse Safebase | JohnnyMillion | Map Editor XML | Permission approved; archive pending |
@@ -37,7 +37,7 @@ Every approved archive is processed as follows: extract outside the streamed res
 - **Abandoned Road / Post-Apocalypse** — Axel Fala: converted as a conflict-pruned static YMAP.
 - **Post-Apocalypse Vinewood** — Axel Fala: converted as a conflict-pruned static YMAP.
 - **Apocalypse Safebase** — JohnnyMillion: converted as a static YMAP.
-- **Apocalypse** — Tobaklo: converted from parse-sanitized Menyoo XML as a conflict-pruned static YMAP.
+- **Apocalypse** — Tobaklo: converted and audited from parse-sanitized Menyoo XML; excluded from the release because it fully overlaps CityCentral and creates unsafe local prop density.
 - **Several Safezones** — hadinajafi77: split into six conflict-pruned zone YMAPs.
 - **After Us Zombie Hospital** — Azpect-YT: Abandoned layout only, converted as a conflict-pruned static YMAP.
 

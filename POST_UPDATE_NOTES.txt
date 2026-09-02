@@ -2,12 +2,11 @@ THE APOCALYPSE PROJECT — EDITABLE UPDATE NOTES
 
 CURRENTLY ACTIVE MAP CHANGE
 
-Little Seoul road/terrain repair
-Location: Little Seoul, Los Santos
-Verified test area: X -552.48, Y -1191.50, Z 18.41
-Change: Rebased 34 legacy highway YMAPs from GTA V tile names to unique tap_ names.
-Result: Original GTA V terrain, roads, collision, and LODs load normally while apocalypse props remain streamed.
-
+v1.0.3 — World tile streaming repair
+Affected area: Los Santos, Pillbox Hill, Legion Square, Little Seoul, Mission Row, and connected highway tiles.
+Change: Removed 49 renamed GTA V world-tile YMAPs that were still streaming duplicate vanilla roads, buildings, terrain, and LOD data under tap_ filenames.
+Result: Restores the base GTA V world as the single owner of those tiles, eliminating the texture corruption, blurred building LODs, broken ground, and invisible-road regressions caused by duplicate world geometry.
+Safety: All removed tile files are preserved under archive/map-quarantine/legacy-world-tile-purge and can be audited or selectively mined for future custom-prop rebuilds.
 Downloaded-map intake status
 
 No external downloaded map has been added to the release yet. The source packages are extracted, classified, and awaiting per-map conversion and conflict removal.
@@ -81,7 +80,7 @@ When a candidate is integrated, copy its best 3-5 source screenshots into its de
 - **Abandoned Road / Post-Apocalypse** by Axel Fala: west Los Santos; 1,054 retained props after 265 conflicts were pruned.
 - **Post-Apocalypse Vinewood** by Axel Fala: Vinewood / downtown; 963 retained props after 402 conflicts were pruned.
 - **Apocalypse Safebase** by JohnnyMillion: Port of Los Santos; 379 static props, zero conflicts.
-- **Apocalypse** by Tobaklo: south/central Los Santos; 685 retained props after 117 conflicts were pruned. Source XML was parse-sanitized only in the archive; the original remains unchanged.
+- **Apocalypse** by Tobaklo: audited from parse-sanitized Menyoo XML, then excluded from the release because it fully overlaps CityCentral and creates unsafe local prop density. The original remains unchanged in the archive.
 - **Several Safezones** by hadinajafi77: split into six geographic YMAPs; 823 retained props after conflict pruning.
 - **After Us Zombie Hospital — Abandoned layout** by Azpect-YT: central Los Santos; 1,162 retained props after 563 conflicts were pruned. The Normal layout is intentionally excluded.
 
